@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/go-test/deep v1.0.4
 	github.com/joho/godotenv v1.5.1
-	github.com/sashabaranov/go-openai v1.9.4
+	github.com/sashabaranov/go-openai v1.15.2
 	github.com/slack-go/slack v0.12.2
 )
 
